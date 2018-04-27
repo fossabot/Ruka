@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ruka</string>
+    <string name="titleabout">About</string>
+    <string name="titleplay">Play</string>
+    <string name="titlesettings">Settings</string>
+    <string name="title_activity_game_home">About</string>
+
+</resources>
